@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.ynyx.lhk.guaguaka.MainActivity">
+
+    <com.ynyx.lhk.guaguaka.MyView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <!--<LinearLayout-->
+        <!--android:orientation="vertical"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent">-->
+
+        <!--<com.ynyx.lhk.guaguaka.GuaKa-->
+            <!--android:layout_marginTop="10dp"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="160dp" />-->
+
+        <!--<com.ynyx.lhk.guaguaka.GuaGuaKa-->
+            <!--android:layout_marginTop="10dp"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="160dp" />-->
+    <!--</LinearLayout>-->
+
+
+
+</LinearLayout>

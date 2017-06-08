@@ -9,5 +9,6 @@
 <br>
 <br>
 博主的做法示例图：
+<br>
 ![image](https://github.com/luhaikong/GuaGuaKa/blob/master/app/src/%E5%8D%9A%E4%B8%BB%E7%9A%84%E5%81%9A%E6%B3%95%E7%A4%BA%E4%BE%8B%E5%9B%BE.png)
 该方法是直接绘制到canvas上
